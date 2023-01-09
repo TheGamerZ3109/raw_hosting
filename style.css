@@ -1,0 +1,20 @@
+body {
+  background: white;
+}
+frameText_one {
+  color: white;
+  font-size: large;
+}
+h1 {
+  font-weight: bold;
+}
+frameBox {
+  background-color: #316E83;
+  color: #316E83;
+  text-decoration-color: #316E83;
+  display: inherit;
+  border-radius: 12px;
+  padding: 10px;
+  width: 100;
+  height: 100px;
+}
